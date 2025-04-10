@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there, I'm Yeswanth Sai Tirumalasetty</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
+  <img src="https://imgcdn.stablediffusionweb.com/2024/11/4/5b1c4974-0482-4630-8974-c674398dcc32.jpg" width="100%" />
 </div>
 
 <div align="center">
@@ -44,26 +44,16 @@ Results-driven Data Professional with over 3 years of experience delivering busi
 
 | Certification | Issuing Organization | Link |
 |---------------|----------------------|------|
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](#) |
-| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](#) |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](https://learn.microsoft.com/en-us/users/yeswanthsaitirumalasetty-2849/credentials/9c14c0f4c2aba8d2) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](https://www.credly.com/badges/ca5046cb-71b0-43f0-a2e1-479f21699811/public_url) |
 
 ## 🚀 Projects
 
-### [Digital Assistant for Stock Market Prediction](https://github.com/yeswanthsai18/stock-market-prediction)
-- AI-powered assistant providing precise stock market forecasts
-- Used KNN and LSTM networks with real-time data extraction
-- Achieved 91% prediction accuracy
-- Published research paper at IEEE International Conference (2021)
-
-### [Handwritten Expression Evaluator](https://github.com/yeswanthsai18/handwritten-expression-evaluator)
-- System capable of scanning, interpreting, and computing handwritten mathematical expressions
-- Implemented image processing using TensorFlow and CNNs
-- Output results directly to Excel
-
-### [Online Banking Application](https://github.com/yeswanthsai18/online-banking-app)
-- Progressive web application with unified user experience
-- Leveraged HTML, CSS, JavaScript, PHP, and NoSQL database
-- Demonstrated full-stack application development
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **Digital Assistant for Stock Market Prediction** | AI-powered assistant providing precise stock market forecasts with 91% prediction accuracy. Published in IEEE International Conference (2021). | KNN, LSTM, Selenium, Python | [Repository](https://github.com/yeswanthsai18/stock-market-prediction) • [Publication](https://ieeexplore.ieee.org/) |
+| **Handwritten Expression Evaluator** | System that scans, interprets, and computes handwritten mathematical expressions, outputting results to Excel. | TensorFlow, CNN, OpenCV, Python | [Repository](https://github.com/yeswanthsai18/handwritten-expression-evaluator) • [Demo](#) |
+| **Online Banking Application** | Progressive web application with unified user experience across web and mobile interfaces. | HTML, CSS, JavaScript, PHP, NoSQL | [Repository](https://github.com/yeswanthsai18/online-banking-app) • [Demo](#) |
 
 ## 🎓 Education
 - **Kent State University, Kent, Ohio** - Master's in Computer Science (Expected Dec 2024)
