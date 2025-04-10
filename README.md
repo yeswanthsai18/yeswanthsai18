@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>💼 Data Professional | ML Engineer | MSc Computer Science Student at Kent State</h3>
+  <h3>💼 Data Professional | ML Engineer | MS Computer Science Student at Kent State</h3>
 </div>
 
 Results-driven Data Professional with over 3 years of experience delivering business-impacting insights through data analysis, predictive modeling, and scalable data engineering solutions. Proven track record in building robust ETL pipelines, integrating large-scale systems, and driving end-to-end analytics workflows.
