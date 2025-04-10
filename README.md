@@ -44,8 +44,8 @@ Results-driven Data Professional with over 3 years of experience delivering busi
 
 | Certification | Issuing Organization | Link |
 |---------------|----------------------|------|
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](#) |
-| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](#) |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/YeswanthSaiTirumalasetty-2849/9C14C0F4C2ABA8D2?sharingId=63BD1A15CFF9BE2B) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](https://www.credly.com/badges/ca5046cb-71b0-43f0-a2e1-479f21699811/public_url) |
 
 ## 🚀 Projects
 
