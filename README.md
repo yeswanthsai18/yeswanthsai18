@@ -51,7 +51,7 @@ Results-driven Data Professional with over 3 years of experience delivering busi
 
 | Project | Description | Technologies | Links |
 |---------|-------------|--------------|-------|
-| **Digital Assistant for Stock Market Prediction** | AI-powered assistant providing precise stock market forecasts with 91% prediction accuracy. Published in IEEE International Conference (2021). | KNN, LSTM, Selenium, Python | [Repository](https://github.com/yeswanthsai18/-A-Digital-Assistant-for-Stock-Market-Prediction) • [Publication](https://ieeexplore.ieee.org/) |
+| **Digital Assistant for Stock Market Prediction** | AI-powered assistant providing precise stock market forecasts with 91% prediction accuracy. Published in IEEE International Conference (2021). | KNN, LSTM, Selenium, Python | [Repository](https://github.com/yeswanthsai18/-A-Digital-Assistant-for-Stock-Market-Prediction) • [Publication](https://ieeexplore.ieee.org/document/9640981) |
 | **Handwritten Expression Evaluator** | System that scans, interprets, and computes handwritten mathematical expressions, outputting results to Excel. | TensorFlow, CNN, OpenCV, Python | [Repository](https://github.com/yeswanthsai18/Hand-written-expression-evaluation-master) |
 | **Online Banking Application** | Progressive web application with unified user experience across web and mobile interfaces. | HTML, CSS, JavaScript, PHP, NoSQL | [Repository](https://github.com/yeswanthsai18/BeyondPasswordsSecureOnlineBanking) |
 
