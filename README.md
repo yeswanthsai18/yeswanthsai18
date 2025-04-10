@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there, I'm Yeswanth Sai Tirumalasetty</div>
 
 <div align="center">
-  <img src="https://www.arcadianorth.com/cdn/shop/files/Homepage_Slideshow_Banner_Picture_Desktop_4.jpg?v=1692984876&width=3200" width="650" />
+  <img src="https://www.arcadianorth.com/cdn/shop/files/Homepage_Slideshow_Banner_Picture_Desktop_4.jpg?v=1692984876&width=3200" width="950" />
 </div>
 
 <div align="center">
