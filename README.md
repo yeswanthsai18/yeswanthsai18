@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there, I'm Yeswanth Sai Tirumalasetty</div>
 
 <div align="center">
-  <img src="https://imgcdn.stablediffusionweb.com/2024/11/4/5b1c4974-0482-4630-8974-c674398dcc32.jpg" width="100%" />
+  <img src="https://imgcdn.stablediffusionweb.com/2024/11/4/5b1c4974-0482-4630-8974-c674398dcc32.jpg" width="500" />
 </div>
 
 <div align="center">
@@ -44,8 +44,8 @@ Results-driven Data Professional with over 3 years of experience delivering busi
 
 | Certification | Issuing Organization | Link |
 |---------------|----------------------|------|
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](https://learn.microsoft.com/en-us/users/yeswanthsaitirumalasetty-2849/credentials/9c14c0f4c2aba8d2) |
-| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](https://www.credly.com/badges/ca5046cb-71b0-43f0-a2e1-479f21699811/public_url) |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | [View Certificate](#) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | [View Certificate](#) |
 
 ## 🚀 Projects
 
